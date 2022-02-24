@@ -13,7 +13,29 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
+.tropical {
+    font-family: fantasy;
 
+}
+.text {
+    float: right;
+    
+    padding-right: 80px;
+}
+.about {
+    margin-top: 15px;
 
+}
+.destinations {
+    margin-top: 20px;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #f7325e;
+}
+.td {
+    float: right;
+    padding-right: 80px;
+    display: flex;
+    flex-direction: column;
 
-
+}
